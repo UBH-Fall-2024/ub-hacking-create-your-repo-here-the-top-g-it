@@ -1,1 +1,34 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/_U2QbDVP)
+# Lectr
+
+Lectr is a mobile application built using React Native. It provides users with tools to upload PDF lecture slides, summarize lecture content, and generate quizzes based on the lecture material, powered by OpenAI's API.
+
+## Table of Contents
+
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Folder Structure](#folder-structure)
+- [API Endpoints](#api-endpoints)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Features
+
+- Upload PDF lecture slides and automatically generate summaries.
+- Generate multiple-choice quizzes based on uploaded lecture content.
+- Interactive quiz-taking with instant feedback on answer correctness.
+- User-friendly navigation to manage multiple classes and lectures.
+
+## Getting Started
+
+These instructions will help you set up the project on your local machine for development and testing purposes.
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) (v14+)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/)
+- [React Native](https://reactnative.dev/docs/environment-setup)
+- OpenAI API Key (sign up at [OpenAI](https://beta.openai.com/signup/))
+
